@@ -20,4 +20,9 @@ gem install android-adb
 gem install and
 gem install android-adbroid-adb
 gem install fastlane-plugin-update_android_strings
+gem install sql_enum
+gem install sql_tracker
+gem ingem install lograge-sql 
+gem install sql-logging
+gem install sql
 
